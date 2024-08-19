@@ -4,4 +4,5 @@ from start to finish to achieve the ending configuration.
 
 The following GIF shows the result. This visualization has happened through the pygame module.
 
-<img src="https://github.com/user-attachments/assets/228a988f-ab0a-4a62-a24f-7432a9664f6e" width="500" alt="Description">
+![Untitled](https://github.com/user-attachments/assets/73e3cfba-ce56-4a1a-9b64-8c02a5d7b9bb)
+
